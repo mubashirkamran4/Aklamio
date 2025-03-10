@@ -40,7 +40,7 @@ The `RewardsService` class is a customer reward system that evaluates customer p
 
 ## Test Cases
 To execute the test cases simply do `bundle install`
-and run 'rspec ./rewards_service_spec.rb' . The comments are already mentioned in test cases to explain.
+and run `rspec ./rewards_service_spec.rb` . The comments are already mentioned in test cases to explain.
 
 ## Example Usage
 
